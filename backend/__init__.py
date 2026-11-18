@@ -1,0 +1,1 @@
+"""Training center FastAPI backend."""
